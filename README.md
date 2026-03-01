@@ -1,6 +1,6 @@
-Perfume E-commerce Analysis
-🔎 Project Overview
-This project analyzes a perfume e-commerce dataset to extract actionable business insights related to sales performance, customer behavior, product trends, and revenue growth.
+## Perfume E-commerce Analysis
+<h1> 🔎 Project Overview </h1>
+<p1> This project analyzes a perfume e-commerce dataset to extract actionable business insights related to sales performance, customer behavior, product trends, and revenue growth. </p1>
 
 🎯 Objectives
 Identify best-selling perfumes
