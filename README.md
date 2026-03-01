@@ -11,11 +11,11 @@
 🛠 Tech Stack: Python, Pandas, NumPy, Matplotlib / Seaborn, Jupyter Notebook
 
 📊 Key Insights
--Sales peak during specific months
--Repeat customers contribute significantly to revenue
--Certain price ranges perform better
+- Sales peak during specific months
+- Repeat customers contribute significantly to revenue
+- Certain price ranges perform better
 
 💡 Business Recommendations
--Focus marketing on top-performing price segments
--Optimize inventory based on seasonal trends
--Implement loyalty programs for repeat customers
+- Focus marketing on top-performing price segments
+- Optimize inventory based on seasonal trends
+- Implement loyalty programs for repeat customers
